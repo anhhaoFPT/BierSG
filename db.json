@@ -1,0 +1,113 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "idLoai": 1,
+            "productName": "Chuck 70s High Black White",
+            "productCode": "GDN-0011",
+            "description": "Leaf rake with 48-inch wooden handle.",
+            "price": 65,
+            "starRating": 3.2,
+            "imageUrl": "https://conversestore.vn/wp-content/uploads/2020/09/1970s-den-1.png"
+          },
+          {
+            "id": 2,
+            "idLoai": 1,
+            "productName": "Chuck 70s Low Black White",
+            "productCode": "GDN-0023",
+            "description": "15 gallon capacity rolling garden cart",
+            "price": 63,
+            "starRating": 4.2,
+            "imageUrl": "https://conversestore.vn/wp-content/uploads/2020/09/1970s-low-2.png"
+          },
+          {
+            "id": 3,
+            "idLoai": 1,
+            "productName": "Converse 70s High Red",
+            "productCode": "TBX-0048",
+            "description": "Curved claw steel hammer",
+            "price": 65,
+            "starRating": 4.8,
+            "imageUrl": "https://conversestore.vn/wp-content/uploads/2021/08/1-10.jpg"
+          },
+          {
+            "id": 4,
+            "idLoai": 1,
+            "productName": "Converse Run Star Hike",
+            "productCode": "TBX-0022",
+            "description": "15-inch steel blade hand saw",
+            "price": 70,
+            "starRating": 3.7,
+            "imageUrl": "https://conversestore.vn/wp-content/uploads/2021/11/RUN-STAR-TRANG.png"
+          },
+          {
+            "id": 5,
+            "idLoai": 1,
+            "productName": "Converse Run Star Move",
+            "productCode": "TBX-0022",
+            "description": "15-inch steel blade hand saw",
+            "price": 80,
+            "starRating": 3.7,
+            "imageUrl": "https://conversestore.vn/wp-content/uploads/2021/11/MOVE-2.png"
+          },
+          {
+            "id": 6,
+            "idLoai": 2,
+            "productName": "MLB Chunky Liner MID Màu Đen",
+            "productCode": "TBX-0022",
+            "description": "15-inch steel blade hand saw",
+            "price": 85,
+            "starRating": 3.7,
+            "imageUrl": "https://conversestore.vn/wp-content/uploads/2023/12/z4852163053701_927471b0435d7cbcc1106d9e8bf6b12b.jpg"
+          },
+          {
+            "id": 7,
+            "idLoai": 2,
+            "productName": "MLB Chunky Liner Mid Monogram Boston",
+            "productCode": "TBX-0022",
+            "description": "15-inch steel blade hand saw",
+            "price": 86,
+            "starRating": 3.7,
+            "imageUrl": "https://conversestore.vn/wp-content/uploads/2023/12/z4852163053846_61ebc9961cc589d0f1af057b9d980091.jpg"
+          },
+          {
+            "id": 8,
+            "idLoai": 2,
+            "productName": "MLB Chunky Liner Monogram B",
+            "productCode": "TBX-0022",
+            "description": "15-inch steel blade hand saw",
+            "price": 75,
+            "starRating": 3.7,
+            "imageUrl": "https://conversestore.vn/wp-content/uploads/2023/12/z4852163047054_6a223d9c50b6f5919b9633042b3fdc0c.jpg"
+          },
+          {
+            "id": 9,
+            "idLoai": 2,
+            "productName": "MLB Chunky NY Whit",
+            "productCode": "TBX-0022",
+            "description": "15-inch steel blade hand saw",
+            "price": 68,
+            "starRating": 3.7,
+            "imageUrl": "https://conversestore.vn/wp-content/uploads/2023/12/6f37aa42-143f-4fed-984a-6432c881e66e.jpg"
+          },
+          {
+            "id":10,
+            "idLoai": 2,
+            "productName": "MLB Chunky Liner Xanh",
+            "productCode": "GMG-0042",
+            "description": "Standard two-button video game controller",
+            "price": 75,
+            "starRating": 4.6,
+            "imageUrl": "https://conversestore.vn/wp-content/uploads/2023/12/z4852163044463_37969ad3e2590ca1b40376ab57c9235b.jpg"
+          }
+    ],
+
+    "idLoai": [
+        {
+            "id": 1, "tenloai": "converse"
+        },
+        {
+            "id": 2, "tenloai": "mlb"
+        }
+    ]
+}

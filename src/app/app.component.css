@@ -1,0 +1,12 @@
+.logoB{
+    display: inline;
+    text-align: center;
+    background-image: linear-gradient(to right, #f782a9 0%, #b48bd9 10%, #4ed9ab 40%, #ffd26b 60%, #f782a9 90%, #f782a9 100%);
+    background-size: 200% auto;
+    color: #000;
+    background-clip: text;
+    text-fill-color: transparent;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shine 10s linear infinite;
+}

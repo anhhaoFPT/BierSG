@@ -1,0 +1,14 @@
+<div class="container">
+    <h1 style="text-align: center; margin-bottom: 20px;">Sản Phẩm Mới</h1>
+    <div class="card-deck">
+        <div class="card" *ngFor='let p of listSP'>
+            <img class="card-img-top" src="{{p.imageUrl}}" alt="{{p.productName}}">
+            <div class="card-body">
+                <h5 class="card-title">{{p.productName}}</h5>
+                <p class="card-text">{{p.productCode}}</p>
+                <p class="card-text">{{p.releaseDate}}</p>
+                <p class="card-text">{{p.price | currency}}</p>
+            </div>
+        </div>
+    </div>    
+</div>
